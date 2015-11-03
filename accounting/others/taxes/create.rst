@@ -1,5 +1,5 @@
 ========================
-How to define new taxes?
+如何定义一个新税?
 ========================
 
 Odoo's tax engine is very flexible and support many different type of
