@@ -1,20 +1,19 @@
 ==================================
-From Vendor Bills to Payments
+从供应商账单到付款
 ==================================
 
-Once vendor bills are registered in Odoo, you can easily pay vendors for
-the correct amount and at the right time (not too late, not too early;
-depending on your vendor policy). Odoo also offers reports to track your
-aged payable balances.
+一旦供应商账单登入 Odoo, 你可以很容易的支付供应商
+正确的金额，并且在合适的时间 (不太晚, 不太早;
+取决于你的供应商支付策略)。 Odoo还提供报告来跟踪你的
+应付款项余额账龄。
 
-If you want to control vendor bills received from your vendors, you can
-use the Odoo Purchase application that allows you to control and
-pre-complete them automatically based on past purchase orders.
+如果你想控制从你的供应商收到的供应商账单, 你可以
+使用Odoo 采购应用程序，允许你基于过去的采购订单来控制和自动地提前结束它们。
 
 From Vendor Bill to Payment
 ===========================
 
-Record a new vendor bill
+记录一个新的供应商账单
 ------------------------
 
 When a vendor bill is received, you can record it from :menuselection:`Purchases --> Vendor Bills` 
