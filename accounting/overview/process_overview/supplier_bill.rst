@@ -10,23 +10,23 @@
 如果你想控制从你的供应商收到的供应商账单, 你可以
 使用Odoo 采购应用程序，允许你基于过去的采购订单来控制和自动地提前结束它们。
 
-From Vendor Bill to Payment
+从采购账单到支付
 ===========================
 
 记录一个新的供应商账单
 ------------------------
 
-When a vendor bill is received, you can record it from :menuselection:`Purchases --> Vendor Bills` 
-in the Accounting application. As a shortcut,
-you can also use the **New Bill** feature on the accounting dashboard.
+当收到一个采购账单, 你可以在会计应用里从 :菜单选择:`采购 --> 供应商账单` 记录它。
+作为一种快捷方式,
+你也可以在会计仪表板上使用 **新帐单** 特性。
 
 .. image:: ./media/vendor_bill05.png
    :align: center
 
-To register a new vendor bill, start by selecting a vendor and inputting
-their invoice as the **Vendor Reference**, then add and confirm the product
-lines, making sure to have the right product quantities, taxes and
-prices.
+若要登记一个新的供应商账单，通过选择供应商并输入
+他们的发票作为 **供应商引用** 作为开始，然后添加并确认产品
+行，一定要有正确的产品数量，税收和
+价格。
 
 .. image:: ./media/vendor_bill01.png
    :align: center
