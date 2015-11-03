@@ -1,5 +1,5 @@
 ========================
-Manage Your Fixed Assets
+管理你的固定资产
 ========================
 
 The "Assets" module allows you to keep track of your fixed assets like
