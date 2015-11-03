@@ -31,12 +31,12 @@
 .. image:: ./media/vendor_bill01.png
    :align: center
 
-Save the invoice to update the pre tax and tax amounts at the bottom of
-the screen. You will most likely need to configure the prices of your
-products without taxes as Odoo will compute the tax for you.
+保存这个发票来更新屏幕底部的税前和税额。 
+你可能需要配置你的产品不含税价格，
+Odoo 将要为你计算税。
 
 .. note:: 
-    On the bottom left corner, Odoo shows a summary table of all taxes on the vendor bill. 
+    在左下角, Odoo 显示供应商账单上所有税汇总表。
     In several countries, different methods are accepted to round the totals (round per line, 
     or round globally). The default rounding method in Odoo is to round the final prices 
     per line (as you may have different taxes per product. E.g. Alcohol and cigarettes). 
