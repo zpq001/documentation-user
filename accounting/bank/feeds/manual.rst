@@ -23,9 +23,8 @@
 创建你的银行对账单
 ---------------------------
 
-In the Dashboard, click on the button **NEW STATEMENT** related to the
-bank journal. If some reconciliations need to be done, the New Statement
-link will be found underneath.
+在仪表板上, 点击与银行日记账相关的 **新对账单** 。
+如果有一些对账需要做，将在下面找到新的对账单链接。
 
 .. image:: media/manual02.png
    :align: center
