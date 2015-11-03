@@ -1,26 +1,26 @@
 =================================
-Register bank statements manually
+手动注册的银行对账单
 =================================
 
-Overview
+概要
 ========
 
-With Odoo, you can import your bank statements, synchronize with your
-bank but also register your bank statements manually.
+凭借Odoo，你可以导入你的银行对账单，同步你的
+银行，但也可手动注册您的银行对账单。
 
-Configuration
+配置
 =============
 
-No special configuration is necessary to register invoices. All you need
-to do is install the accounting app.
+登记发票没有特别的配置。 
+你需要做的就是安装会计应用。
 
 .. image:: media/manual01.png
    :align: center
 
-Register bank statements manually
+手动注册的银行对账单
 =================================
 
-Create your Bank Statements
+创建你的银行对账单
 ---------------------------
 
 In the Dashboard, click on the button **NEW STATEMENT** related to the
