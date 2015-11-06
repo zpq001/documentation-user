@@ -1,16 +1,15 @@
 ==================================================
-What is an account type and how do I configure it?
+什么事科目表类型及如何配置它?
 ==================================================
 
-What is an account type ? 
+什么是科目表类型 ? 
 ==========================
 
-An account type is a name or code given to an account that indicates the
-account's purpose.
+科目类型是给定一个科目名称或代码，表示
+科目的目的。
 
-In Odoo, Account Types are used for information purpose, to generate
-country-specific legal reports, set the rules to close a fiscal year and
-generate opening entries.
+在Odoo中, 科目类型是用于信息的目的, 产生
+国家指定法定报告, 设置规则来关闭年度并产生开账分。
 
 Basically Account types categorize general account with some specific
 category according to its behaviour or purpose.
