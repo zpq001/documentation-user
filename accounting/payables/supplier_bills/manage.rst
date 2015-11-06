@@ -1,22 +1,20 @@
 ==========================
-How to manage vendor Bills
+如何管理供应商票据
 ==========================
 
-The **Purchase** application allows you to manage your purchase orders,
+**采购** 应用允许管理你的采购订单，
 incoming products, and vendor bills all seamlessly in one place.
 
-If you want to set up a vendor bill control process, the first thing you
-need to do is to have purchase data in Odoo. Knowing what has been
-purchased and received is the first step towards understanding your
-purchase management processes.
+如果你想建立一个供应商账单控制进程，
+ 你要做的第一件事是在 Odoo 中有采购数据。 知道什么已经
+购买并收到是理解您
+采购管理流程的第一步。
 
-Here is the standard work flow in Odoo:
+这是在 Odoo 中标准的工作流程:
 
-1. You begin with a **Request for Quotation (RFQ)** to send out to your
-   vendor(s).
+1. 你以一个发送给你的供应商的 **询价 (RFQ)** 开始。
 
-2. Once the vendor has accepted the RFQ, confirm the RFQ into a
-   **Purchase Order (PO)**.
+2. 一旦这个供应商已经接受这个 RFQ, 确认这个 RFQ 进入 **采购订单(PO)**。
 
 3. Confirming the PO generates an **Incoming Shipment** if you purchased
    any stockable products.
@@ -27,17 +25,17 @@ Here is the standard work flow in Odoo:
 This process may be done by three different people within the company,
 or only one.
 
-Configuration
+配置
 =============
 
-Installing the Purchase and Inventory applications
+安装采购和库存应用
 --------------------------------------------------
 
-From the **Apps** application, search for the **Purchase** module and
-install it. Due to certain dependencies, Installing Purchase will
-automatically install the **Inventory** and **Accounting** applications.
+从**应用模块**应用, 搜索**采购**模块并安装它。
+由于特定的依赖关系, 安装**采购**将会
+自动安装**库存**和**会计** 应用。
 
-Creating products
+创建产品
 -----------------
 
 Creating products in Odoo is essential for quick and efficient
@@ -47,8 +45,8 @@ Purchase, and click create.
 .. image:: ./media/manage01.png
   :align: center
 
-When creating the product, Pay attention to the **Product Type** field,
-as it is important:
+在创建产品时，需要注意的是**产品类别**字段，
+因为它很重要：
 
 - Products that are set as **Stockable or Consumable** will allow you
   to keep track of their inventory levels. These options imply
@@ -66,10 +64,10 @@ as it is important:
 	that occur infrequently and do not require inventory valuation or management.
 	If you create such a product, it is recommend to set the product type to **Service**.
 
-Managing your Vendor Bills
+管理你的供应商票据
 ==========================
 
-Purchasing products or services
+采购产品或服务
 -------------------------------
 
 From the purchase application, you can create a purchase order with as
