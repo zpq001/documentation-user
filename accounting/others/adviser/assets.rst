@@ -39,7 +39,7 @@ Types <accounting/adviser/assets_management/defining>`.
 
 .. _accounting/adviser/assets_management/defining:
 
-Defining Asset Types
+定义资产类型
 --------------------
 
 Asset type are used to configure all information about an assets: asset
@@ -65,7 +65,7 @@ Types`
 
    View *Asset Types* in our Online Demonstration
 
-Create assets manually
+手动创建资产
 ======================
 
 To register an asset manually, go to the menu :menuselection:`Adviser
@@ -93,7 +93,7 @@ Explanation of the fields:
 
    Try creating an *Asset* in our online demonstration
 
-Create assets automatically from a supplier bill
+从供应商账单自动创建资产
 ================================================
 
 Assets can be automatically created from supplier bills. All you need to
@@ -113,7 +113,7 @@ before posting them to your accounts.
 .. tip:: if you put the asset on the product, the asset category will
          automatically be filled in the supplier bill.
 
-How to deprecate an asset?
+资产如何折旧?
 ==========================
 
 Odoo will create depreciation journal entries automatically at the right
@@ -132,7 +132,7 @@ depreciation entry.
           the journal entry. Click on the :guilabel:`Items` button on
           the top to see the journal entries which are already posted.
 
-How to modify an existing asset?
+如何修改一个存在的资产?
 ================================
 
 -  Click on :guilabel:`Modify Depreciation`
@@ -140,11 +140,11 @@ How to modify an existing asset?
 
 Odoo will automatically recompute a new depreciation board.
 
-How to record the sale or disposal of an asset?
+如何记录资产的出售或处置?
 ===============================================
 
-If you sell or dispose an asset, you need to deprecate completly this
-asset. Click on the button :guilabel:`Sell or Dispose`. This action
+如果你想出售或处置一项资产，你需要完全折旧这项资产。
+单击这个按钮 :guilabel:`Sell or Dispose`. This action
 will post the full costs of this assets but it will not record the
 sales transaction that should be registered through a customer
 invoice.
