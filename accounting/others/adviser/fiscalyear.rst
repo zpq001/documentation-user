@@ -73,7 +73,7 @@ while auditing the books.
 .. image:: media/fiscalyear01.png  
    :align: center
 
-Closing the fiscal year
+关闭财政年度
 =======================
 
 In Odoo there is no need to do a specific year end closing entry in order to
