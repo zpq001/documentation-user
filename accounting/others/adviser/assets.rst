@@ -14,28 +14,28 @@ value by $1,000 and passing $1,000 as an expense. After 3 years, this
 assets accounts for $0 (salvage value) in your balance sheet.
 
 The different types of assets are grouped into "Assets Types" that
-describe how to deprecate an asset. Here are two examples of assets
-types:
+describe how to deprecate an asset. 这是资产类型的两个
+例子:
 
--  Building: 10 years, yearly linear depreciation
--  Car: 5 years, monthly linear depreciation
+-  建筑物: 10 年, 年线性折旧
+-  汽车: 5 年, 月线性折旧
 
-Configuration
+配置
 =============
 
-Install the Asset module
+安装资产模块
 ------------------------
 
-Start by *installing the Asset module.*
+通过 *安装资产模块.* 开始。
 
-Once the module is installed, you should see two new menus in the
-accounting application:
+一旦安装上这个模块, 你应该看到在会计应用里看到两个新的
+菜单:
 
--  :menuselection:`Adviser --> Assets`
--  :menuselection:`Configuration --> Asset Types`
+-  :菜单选择:`顾问 --> 资产`
+-  :菜单选择:`配置 --> 资产类型`
 
-Before registering your first asset, you must :ref:`define your Asset
-Types <accounting/adviser/assets_management/defining>`.
+在注册您的第一笔资产之前, you must :ref:`定义你的资产类型
+ <会计/顾问/资产管理/定义>`.
 
 .. _accounting/adviser/assets_management/defining:
 
@@ -49,12 +49,11 @@ having to provide any complex accounting information. They just need to
 provide an asset type on the supplier bill.
 
 You should create asset types for every group of assets you frequently
-buy like "Cars: 5 years", "Computer Hardware: 3 years". For all other
+buy like "汽车: 5 年", "计算机硬件: 3 年". For all other
 assets, you can create generic asset types. Name them according to the
-duration of the asset like "36 Months", "10 Years", ...
+duration of the asset like "36 月", "10 年", ...
 
-To define asset types, go to :menuselection:`Configuration --> Asset
-Types`
+To define asset types, 进入 :菜单选择:`配置 --> 资产类型`
 
 .. image:: media/image01.png
    :align: center
